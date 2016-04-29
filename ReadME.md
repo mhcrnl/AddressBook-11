@@ -1,7 +1,3 @@
-Introduction:
-
-As a competent programmer, your ability to develop programs that implement inheritance, polymorphism, and collections will help you design and develop applications to meet customer requirements. This project is an opportunity for you to peer behind the scenes at how a program may function and will help you apply object- oriented programming skills in a familiar, real-world scenario.
-
 Scenario:
 
 You have been assigned by your employer to create a computer application to help employees manage their contact list. Users must be able to store two types of contacts: business and personal. Both types have common fields as well as properties unique to them. The application needs to accept and store contacts by type. Your team lead has required that you use an object-oriented design for the application. You are encouraged to consider usability of the system when designing the user interface. It is up to you if you want to use a menu-driven or graphical user interface; however, the approach needs to create an inheritance relationship for the contacts in order to facilitate evolving this application to easily add new contact types in the future.
